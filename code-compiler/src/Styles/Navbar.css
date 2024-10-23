@@ -1,0 +1,53 @@
+/* Filename: Navbar.css */
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    /* padding-left: 20px;
+    padding-top:5px;
+    padding-bottom:10px; */
+    /* height: 50px; */
+    text-align: center;
+    /* color: #afec3f; */
+    color:black;
+    background-color: #219C90   ;
+    /* background-color: white; */
+    /* gap: 20px; */
+}
+
+#no {
+    height: 36px;
+    width: 80px;
+    font-size: 16px;
+    color: rgb(185, 185, 185);
+    border: 1px solid #afec3f;
+    border-radius: 4px;
+    background-color: #474747;
+}
+
+#no:focus {
+    outline: none;
+}
+
+.css-2b097c-container {
+    width: 120px;
+    color: black;
+    background-color: #474747;
+}
+
+.css-yk16xz-control {
+    background-color: #474747 !important;
+    border-color: #afec3f !important;
+}
+
+.leave-btn{
+    background-color:#afec3f;
+    font-weight: bold;
+    cursor:pointer;
+    border-radius: 4px;
+    font-size:22px;
+    border:none;    
+   
+}
